@@ -20,3 +20,9 @@ new TypeIt("#home", {
      // callback
      $('.ti-cursor').remove();
    }).go();
+
+
+
+  
+  const about_text = "I am a passionate Robotics and Computer Science student. I am hardworking and will spend time self learning any topics. I have been an extremely active member in FRC Team 846, The Funky Monkeys. In the team, I have worked on both software and design. In addition, I have worked on my own to develop several projects. I primarily use Java, Python, and Kotlin to develop projects."
+  document.getElementById("about_paragraph").textContent += about_text

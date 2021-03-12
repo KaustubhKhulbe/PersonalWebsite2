@@ -64,6 +64,10 @@ section {
   scroll-snap-align: center;
 }
 
+section:about {
+  color: red;
+}
+
 section h1 {
   font-size: 4rem;
 }
@@ -86,4 +90,10 @@ section#contact {
 
 section#portfolio {
   background: url("portfolio_img.jpeg") no-repeat center center/ cover;
+}
+
+#about p {
+  color: white;
+  text-shadow: 0 0 30px lightblue;
+  padding: 150;
 }
