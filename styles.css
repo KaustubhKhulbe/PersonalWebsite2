@@ -97,3 +97,11 @@ section#portfolio {
   text-shadow: 0 0 30px lightblue;
   padding: 150;
 }
+
+#home {
+  font-size: 100px;
+}
+
+#portfolio ul {
+  font-size: 30;
+}
